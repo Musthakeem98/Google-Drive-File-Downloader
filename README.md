@@ -47,4 +47,4 @@ Before running the code, make sure you have the following prerequisites:
 ## To run the code:
 
 ```shell
-node app.js ```	
+node ListFile.js ```	
