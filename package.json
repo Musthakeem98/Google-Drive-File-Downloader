@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "googleapis": "^120.0.0"
+  },
+  "name": "project-2",
+  "version": "1.0.0",
+  "main": "ListFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
